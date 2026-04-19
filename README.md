@@ -2,59 +2,54 @@
 
 This guide walks you through setting up and using the **HSI Healthy Habits** app for the first time.
 
----
+## ⚠️ Medical Disclaimer
 
-## 🚀 1. Create an Account
+- This app is **not a medical device**
+- Not for diagnosis or treatment
+- Data is **research-only**
+- Health data comes from external sources (Apple Health / Health Connect)
 
-When you first open the app, you’ll see the **Create an Account** screen.
+## 📌 Navigation Overview
 
-### Steps:
-1. Enter your **Name**
-2. Enter your **Email address**
-3. Create a **Password**
-4. Confirm your password
-5. Enter your **Activation Code** (provided by the study/admin)
-6. Click **Sign Up**
+Bottom navigation bar includes:
 
-> Already have an account? Click **Sign in** at the bottom.
+- 🏠 **Home** — Dashboard
+- 🔔 **Notifications** — Habit reminders
+- ⚙️ **Settings** — Profile & app settings
 
----
+## Account
 
-## 🔐 2. Sign In
-
-If you already have an account:
-
-1. Enter your **Email**
-2. Enter your **Password**
-3. Click **Sign In**
-
-Optional:
-- Click **Forgot password?** if needed
-- Click **Sign up** if you don’t have an account
+Follow the [account](./Account.md) setup guide to set up an account.
 
 ---
 
-## 🏠 3. Home Dashboard Overview
+## 🏠 Home Dashboard Overview
 
 Once logged in, you’ll see your **Health Dashboard**, which includes:
 
-### 📊 Metrics Displayed:
-- **Glucose (mg/dL)** – recent readings
-- **Heart Rate (bpm)** – trends over time
-- **Cumulative Steps** – daily activity
+> ⚠️ Note: Data appears only if connected via Apple Health or Health Connect.
 
 ### 🧾 Health Summary:
 - Latest glucose reading
 - Steps today
 - Average heart rate
 
-> ⚠️ Note: Data appears only if connected via Apple Health or Health Connect.
+<img src="./photos/summary.png" alt="Health Summary" width="150px">
 
+### 📊 Last 2 hours trend:
+
+- **Glucose (mg/dL)** – recent readings
+- **Steps** – step counts
+- **Heart Rate (bpm)** – average heart rate over time
+
+<img src="./photos/history_2h.png" alt="Health Trend in the last 2 hours" width="150px">
 ---
 
-## 🔔 4. Set Up Notifications (Healthy Habits)
+## 🔔 Set Up Notifications (Healthy Habits)
 
 Navigate to **Notifications** tab to create reminders.
+
+<img src="./photos/reminder.png" alt="Reminder" width="150px">
 
 ### Create a Reminder:
 1. Click **Add reminder**
@@ -62,6 +57,8 @@ Navigate to **Notifications** tab to create reminders.
    - **Notification Title** (e.g., *10-Min Healthy Habit*)
    - **Description** (e.g., *Take a 10-minute walk*)
 3. Toggle **Enable Notification**
+
+<img src="./photos/reminder_create.png" alt="Create a Reminder" width="150px">
 
 ### ⏰ Configure Schedule:
 - Choose **Repeat Type**:
@@ -75,7 +72,7 @@ Example:
 
 ---
 
-## 📤 5. Upload Study Data
+## 📤 Upload Study Data
 
 To participate in the study:
 
@@ -86,49 +83,5 @@ To participate in the study:
    - Steps
    - Heart Rate
 
-### Status:
-- Displays **Uploaded / Not uploaded yet**
 
----
-
-## 👤 6. Manage Your Profile
-
-Go to **Settings → User Profile**
-
-### You can:
-- View your **Name & Email**
-- Check **Study Start**
-- Upload study data again if needed
-- Click **Edit** to update details
-
----
-
-## ⚠️ 7. Medical Disclaimer
-
-Access via:
-**Settings → Important Information → View medical disclaimer**
-
-### Key Notes:
-- This app is **not a medical device**
-- Not for diagnosis or treatment
-- Data is **research-only**
-- Health data comes from external sources (Apple Health / Health Connect)
-
----
-
-## 🚪 8. Log Out
-
-To sign out:
-1. Go to **Settings**
-2. Scroll to **Session**
-3. Click **Log out**
-
----
-
-## 📌 Navigation Overview
-
-Bottom navigation bar includes:
-
-- 🏠 **Home** — Dashboard
-- 🔔 **Notifications** — Habit reminders
-- ⚙️ **Settings** — Profile & app settings
+<img src="./photos/study_history.png" alt="Upload data" width="150px">
